@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CARRERA_MobileAppsTakeHomeExam</string>
+    <string name="total_no_of_students">Total No. of Students</string>
+    <string name="as_students">As Students</string>
+    <string name="bs_students">Bs Students</string>
+    <string name="cs_students">Cs Students</string>
+    <string name="ds_students">Ds Students</string>
+    <string name="fs_students">Fs Students</string>
+    <string name="compute">Compute</string>
+</resources>
